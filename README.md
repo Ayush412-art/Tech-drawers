@@ -28,5 +28,3 @@ Tech drawer is an interactive canvas tool designed for creating, editing, and co
 - [CSS] - for awesome webdesiging
 - [JS] - to implement features like floating toolbar , selecting tools , selecting colors , eraseing , downloading files as png etc.
 -  React (if applicable)
-
-
