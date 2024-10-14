@@ -4,7 +4,7 @@
    
 }
 body{
-    background-image: url(./public/img/bgImg.png);
+    background-image: url('./public/img/bgImg.png');
 }
 .container{
     
